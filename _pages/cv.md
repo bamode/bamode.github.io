@@ -12,13 +12,16 @@ redirect_from:
 Education
 ======
 _Ph.D_ in Physics, University of Wisconsin, 2014 - Present
-    * _Coursework_: Quantum Mechanics, Classical Dynamics, Statistical Mechanics, Electricity and Magnetism, Experimental Methods in Particle and Astrophysics
+
+* _Coursework_: Quantum Mechanics, Classical Dynamics, Statistical Mechanics, Electricity and Magnetism, Experimental Methods in Particle and Astrophysics
 
 _B.S._ in Physics, University of Louisville, _summa cum laude_, 2014 - 2018
-    * _Coursework_: Modern Physics, Classical Mechanics, Quantum Mechanics, Electromagnetic Fields and Radiation, Thermodynamics, Computational Physics
+
+* _Coursework_: Modern Physics, Classical Mechanics, Quantum Mechanics, Electromagnetic Fields and Radiation, Thermodynamics, Computational Physics
 
 _B.S._ in Mathematics, University of Louisville, _summa cum laude_, 2014 - 2018
-    * _Coursework_: Calculus, Differential Equations, Partial Differential Equations, Combinatorics, Linear Algebra, Abstract Algebra, Probability, Statistics, Real Analysis, Mathematical Modeling
+
+* _Coursework_: Calculus, Differential Equations, Partial Differential Equations, Combinatorics, Linear Algebra, Abstract Algebra, Probability, Statistics, Real Analysis, Mathematical Modeling
 
 Research experience
 ======
