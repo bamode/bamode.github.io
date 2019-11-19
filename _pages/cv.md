@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Link to full CV pdf here](https://bamode.github.io/files/CV.pdf)
+
 Education
 ======
 _Ph.D_ in Physics, University of Wisconsin, 2014 - Present
